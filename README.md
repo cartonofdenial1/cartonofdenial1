@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi
+### my name is zoe
+### she/her
+### idk i'm pretty dumb
 
 <!--
 **cartonofdenial1/cartonofdenial1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
